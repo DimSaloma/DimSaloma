@@ -1,6 +1,6 @@
 # Привет! 👋 Меня зовут Дмитрий!
 ## Я QA Engineer :computer:
-__
+___
 
 <!--
 **DimSaloma/DimSaloma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
