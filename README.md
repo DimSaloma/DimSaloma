@@ -15,6 +15,7 @@ ___
   + Miro
   + Xmind
   + Diagrams 
+  
 **Тест-дизайн** 
   + YouTrack
   + Qase.io
