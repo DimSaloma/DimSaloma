@@ -11,15 +11,14 @@ ___
 * [Telegram](https://t.me/Dima_Salomatin)
 ___
 ## 🛠️ Инструменты:
-**Тест-анализ**
   + Miro
   + Xmind
   + Diagrams 
   
-**Тест-дизайн** 
   + YouTrack
   + Qase.io
-
+  
+  + Charles
 
 
 
