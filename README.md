@@ -14,8 +14,8 @@ ___
 **Тест-анализ**
   + Miro
   + Xmind
-  + Diagrams
-**Тест-дизайн**  
+  + Diagrams 
+**Тест-дизайн** 
   + YouTrack
   + Qase.io
 
