@@ -13,6 +13,7 @@ ___
 ## 🛠️ Инструменты:
 ![image](https://github.com/DimSaloma/DimSaloma/assets/139138157/e9ef49b5-b5fa-4351-9149-8fb82b0904ec)
 ![image](https://github.com/DimSaloma/DimSaloma/assets/139138157/0eae1c36-915a-4b25-a115-51c34ecd89f4)
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL"
+![image](https://github.com/DimSaloma/DimSaloma/assets/139138157/0bbcddc1-1aa1-48e6-806d-3b4552910c2f)
+
 
 
