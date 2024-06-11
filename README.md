@@ -12,5 +12,7 @@ ___
 ___
 ## 🛠️ Инструменты:
 ![image](https://github.com/DimSaloma/DimSaloma/assets/139138157/e9ef49b5-b5fa-4351-9149-8fb82b0904ec)
+![image](https://github.com/DimSaloma/DimSaloma/assets/139138157/0eae1c36-915a-4b25-a115-51c34ecd89f4)
+
 
 
