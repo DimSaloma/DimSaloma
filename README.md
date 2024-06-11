@@ -11,3 +11,5 @@ ___
 * [Telegram](https://t.me/Dima_Salomatin)
 ___
 ## 🛠️ Инструменты:
+![image](https://github.com/DimSaloma/DimSaloma/assets/139138157/40df3b89-55ea-4bf1-b8d1-ed2abe30a6ce)
+
