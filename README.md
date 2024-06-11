@@ -11,14 +11,4 @@ ___
 * [Telegram](https://t.me/Dima_Salomatin)
 ___
 ## 🛠️ Инструменты:
-  + Miro
-  + Xmind
-  + Diagrams 
-  
-  + YouTrack
-  + Qase.io
-  
-  + Charles
-
-
-
+Figma, Miro, Xmind, Diagrams, YouTrack, Qase.io, Charles, Android Studio, Postman, Swagger, PostgreSQL
